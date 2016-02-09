@@ -13,5 +13,7 @@ O *app* tem como objetivo facilitar o contato de pessoas e idéias, criando time
 A aplicação está sendo desenvolvida *100% sem código* na plataforma Bubble.is.
 
 Contato - Cesar Sacconi Falcão
+
 csfalcao@gmail.com
+
 Discerne.com
