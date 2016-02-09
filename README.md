@@ -1,4 +1,4 @@
-# ideia.acao
+# ideia.acao (PD)
 Ideia.ação app
 
 Aplicativo de ideação e inovação **Ideia.ação (PD)**, a ser utilizado em período de teste na universidade Unimep.
