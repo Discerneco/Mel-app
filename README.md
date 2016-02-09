@@ -10,7 +10,7 @@ O *app* tem como objetivo facilitar o contato de pessoas e idéias, criando time
 - criação de solução inovadoras para desenvolvimento em todas as áreas da ciência, cultura e sociedade
 
 
-A aplicação está sendo desenvolvida *100% sem código* na plataforma Bubble.is.
+A aplicação está sendo desenvolvida **100% sem código** na plataforma Bubble.is.
 
 
 Contato - Cesar Sacconi Falcão
