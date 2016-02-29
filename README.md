@@ -18,3 +18,5 @@ Contato - Cesar Sacconi Falcão
 csfalcao@gmail.com
 
 Discerne.com
+
+Alpha 0.6
