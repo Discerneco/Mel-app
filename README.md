@@ -19,4 +19,4 @@ csfalcao@gmail.com
 
 Discerne.com
 
-Alpha 0.6
+Alpha 0.8
