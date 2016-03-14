@@ -1,9 +1,8 @@
-# ideia.acao (PD)
-Ideia.ação app
+# Mel app
 
-Aplicativo de ideação e inovação **Ideia.ação (PD)**, a ser utilizado em período de teste na universidade Unimep.
+Aplicativo de inovação em projetos colaborativos **Mel**, a ser utilizado em período de teste na universidade Unimep.
 
-O *app* tem como objetivo facilitar o contato de pessoas e idéias, criando times de parceria *aluno-professor-instituição* para:
+O *Mel app* tem como objetivo facilitar o contato de pessoas e idéias, criando times de parceria *aluno-professor-instituição* para:
 
 - solucionar problemas
 - descoberta de oportunidades de melhorias
@@ -19,4 +18,7 @@ csfalcao@gmail.com
 
 Discerne.com
 
-Alpha 0.8.5
+Alpha 0.9
+
+antigo PenseDiferente
+antigo Ideia.ação app
