@@ -1,9 +1,10 @@
 # Mel app
 ### From milk to Mars
 
-Aplicativo de inovação em projetos colaborativos **Mel**, a ser utilizado em período de teste na universidade Unimep.
+Aplicativo de inovação em projetos colaborativos online **Mel®**.
 
-O *Mel app* tem como objetivo facilitar o contato de pessoas e idéias, criando times de parceria *aluno-professor-instituição* para:
+O *Mel app* tem como objetivo gerenciar o trabalho e projetos facilitando a comunicação de pessoas e idéias.
+Em período de testes na Universidade UNIMEP, será usado criando times de parceria *aluno-professor-instituição* para:
 
 - solucionar problemas
 - descoberta de oportunidades de melhorias
@@ -17,7 +18,7 @@ Contato - Cesar Sacconi Falcão
 
 csfalcao@gmail.com
 
-Discerne.com
+Discerne.com®
 
 Alpha 0.11
 
