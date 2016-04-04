@@ -19,7 +19,7 @@ csfalcao@gmail.com
 
 Discerne.com
 
-Alpha 0.10
+Alpha 0.11
 
 antigo PenseDiferente
 antigo Ideia.ação app
